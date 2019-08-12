@@ -24,22 +24,22 @@ Here is a list of students from our Lab:
   * Xuecheng Qi
 
 * Master degree candidates
- * Yanzhao Wang
- * Wencan Yang
- * Zihang Zhang
- * Yaoyi Hu
- * Zihao Liu
- * Rui Xu
+  * Yanzhao Wang
+  * Wencan Yang
+  * Zihang Zhang
+  * Yaoyi Hu
+  * Zihao Liu
+  * Rui Xu
 
 * Graduated Students
- * Dr. Tao Zhu @ Alibaba
- * Dr. Huan Zhou @ ECNU 
- * Xing Qu @ Halo Cooperation
- * Xiaoxiao Mao @ Tencent
- * Jianwei Huang @ China UnionPay
- * Tianyang Jin @ startup 
- * Suxiang Wang @ Bank of Communication
- * Shuanglong Wang @ ICBC
+  * Dr. Tao Zhu @ Alibaba
+  * Dr. Huan Zhou @ ECNU 
+  * Xing Qu @ Halo Cooperation
+  * Xiaoxiao Mao @ Tencent
+  * Jianwei Huang @ China UnionPay
+  * Tianyang Jin @ startup 
+  * Suxiang Wang @ Bank of Communication
+  * Shuanglong Wang @ ICBC
 
 #### Teachings
 
