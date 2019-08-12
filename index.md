@@ -10,12 +10,16 @@ Email: hqhu@dase.ecnu.edu.cn
 Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). My main research interests are database and distributed systems and algorithms.
 
 
-#### Description of the Lab
+#### Description of Lab Dase-314
 
-I run a smal lab studying database and distributed systems. My research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing.
+I run a smal lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing. In the lab, we prefer study open-sourced systems or open-sourced project. 
 
 Specifically, my recent interests include distributed storage system and indexes with RDMA and NVM, parallel logging with varients of Paxos/Raft protocols, indexing and increamental view maintenance for kv/database/streaming system.  
 
+Here is a list of students from our Lab:
+
+* PHD candidates
+  *
 
 ```markdown
 Syntax highlighted code block
