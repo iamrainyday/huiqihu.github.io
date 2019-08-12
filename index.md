@@ -12,9 +12,9 @@ Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd
 
 #### Description of Lab Dase-314
 
-I run a smal lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing. In the lab, we prefer study open-sourced systems or open-sourced project. 
+I run a smal lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing. In the lab, we prefer study open-sourced systems or open-sourced projects. 
 
-Specifically, my recent interests include distributed storage system and indexes with RDMA and NVM, parallel logging with varients of Paxos/Raft protocols, indexing and increamental view maintenance for kv/database/streaming system.  
+Specifically, my recent interests include distributed storage system and indexes with RDMA and NVM, parallel logging with varients of Paxos/Raft protocols, indexing and increamental view maintenance for kv/database/streaming systems.  
 
 Here is a list of students from our Lab:
 
