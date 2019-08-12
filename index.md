@@ -1,13 +1,12 @@
 ## Homepage of  Huiqi Hu @ DASE-314
 
 #### Personal Information
-Title: Assistant Professor
 
 Office: Room 314, The Geographical Building, East China Normal University(ECNU), Shanghai, China
 
 Email: hqhu@dase.ecnu.edu.cn
 
-Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). My main research interests are database and distributed systems and algorithms.
+Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). Now I'm an assistant professor at School of Data Science and Engineering (_DASE_), East China Normal University (_ECNU_). My main research interests are database and distributed systems and algorithms.
 
 
 #### Description of Lab Dase-314
@@ -20,7 +19,21 @@ Here is a list of students from our Lab:
 
 * PHD candidates
   * Huichao Duan
-  * Xing Wei 
+  * Xing Wei
+  * Chengcheng Huang
+  * Xuecheng Qi
+
+* Master degree candidates
+ * Yanzhao Wang
+ * Zihang Zhang
+ * Yaoyi Hu
+ * Zihao Liu
+ * Rui Xu
+
+* Graduated Students
+ * Dr. Tao Zhu @ Alibaba
+ * Dr. Huan Zhou @ ECNU 
+ 
 
 ```markdown
 Syntax highlighted code block
