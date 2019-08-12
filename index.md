@@ -7,11 +7,14 @@ Office: Room 314, The Geographical Building, East China Normal University(ECNU),
 
 Email: hqhu@dase.ecnu.edu.cn
 
-Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). My main research interests are database systems, theories and algorithms.
+Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). My main research interests are database and distributed systems and algorithms.
 
 
 ## Description of the Lab
 
+I run a smal lab studying database and distributed systems. My research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing.
+
+Specifically, my recent interests include distributed storage system and indexes with RDMA, indexing and increamental view maintenance for LSM-tree structured/distributed systems, parallel logging and varients of Paxos/Raft protocols.
 
 
 ```markdown
