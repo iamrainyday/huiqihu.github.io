@@ -6,7 +6,7 @@ Office: Room 314, The Geographical Building, East China Normal University(ECNU),
 
 Email: hqhu@dase.ecnu.edu.cn
 
-Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). Now I'm an assistant professor at School of Data Science and Engineering (_DASE_), East China Normal University (_ECNU_). My main research interests are database and distributed systems and algorithms.
+Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). Now I'm an assistant professor at School of Data Science and Engineering (**DASE**), East China Normal University (**ECNU**). My main research interests are database and distributed systems and algorithms.
 
 
 #### Description of Lab Dase-314
@@ -41,27 +41,11 @@ Here is a list of students from our Lab:
  * Suxiang Wang @ Bank of Communication
  * Shuanglong Wang @ ICBC
 
- 
+#### Teachings
 
-```markdown
-Syntax highlighted code block
+* Implementation of Database Systems
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Data structure and Algorithms
 
 ### Jekyll Themes
 
