@@ -25,6 +25,7 @@ Here is a list of students from our Lab:
 
 * Master degree candidates
  * Yanzhao Wang
+ * Wencan Yang
  * Zihang Zhang
  * Yaoyi Hu
  * Zihao Liu
@@ -33,6 +34,13 @@ Here is a list of students from our Lab:
 * Graduated Students
  * Dr. Tao Zhu @ Alibaba
  * Dr. Huan Zhou @ ECNU 
+ * Xing Qu @ Halo Cooperation
+ * Xiaoxiao Mao @ Tencent
+ * Jianwei Huang @ China UnionPay
+ * Tianyang Jin @ startup 
+ * Suxiang Wang @ Bank of Communication
+ * Shuanglong Wang @ ICBC
+
  
 
 ```markdown
