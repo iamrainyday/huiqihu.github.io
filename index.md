@@ -19,7 +19,8 @@ Specifically, my recent interests include distributed storage system and indexes
 Here is a list of students from our Lab:
 
 * PHD candidates
-  *
+  * Huichao Duan
+  * Xing Wei 
 
 ```markdown
 Syntax highlighted code block
