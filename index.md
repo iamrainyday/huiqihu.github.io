@@ -2,8 +2,11 @@
 
 #### Personal Information
 Title: Assistant Professor
+
 Office: Room 314, The Geographical Building, East China Normal University(ECNU), Shanghai, China
+
 Email: hqhu@dase.ecnu.edu.cn
+
 Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (http://dbgroup.cs.tsinghua.edu.cn/ligl/).
 
 
