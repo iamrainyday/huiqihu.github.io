@@ -15,7 +15,7 @@ I run a small lab studying database and distributed systems. Our research area i
 
 Specifically, my recent interests include distributed storage system and indexes with new hardwares(RDMA and NVM), parallel logging with varients of Paxos/Raft protocols, indexing and increamental view maintenance for kv/database/streaming systems.  
 
-Here is a list of students from our Lab:
+The students in our lab are engaged in researches or engineering in database and distributed systems. Here is a list of students from our Lab:
 
 * PHD candidates
   * Huichao Duan
