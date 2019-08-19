@@ -65,6 +65,6 @@ The students are engaged in research/engineering in systems. Here is a list of s
 Our paper: 
 
 
-### Support or Contact
+### Selected Publications
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
