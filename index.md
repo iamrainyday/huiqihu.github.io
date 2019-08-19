@@ -49,7 +49,17 @@ The students are engaged in research/engineering in systems. Here is a list of s
 
 #### Projects 
 
-* Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than The key idea is to replace or assist local cache   
+* Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks. 
+
+!(figs/SC.png)
+
+
+*RDMA-Redis: A RMDA equipped Redis.
+
+
+* 
+
+
 
 * Cedar: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
 Our paper: 
