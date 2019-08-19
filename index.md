@@ -62,6 +62,7 @@ The students are engaged in research/engineering in systems. Here is a list of s
 
 
 * Cedar: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
+The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>
 Our paper: 
 
 
