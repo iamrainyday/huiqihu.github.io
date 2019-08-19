@@ -54,7 +54,7 @@ The students are engaged in research/engineering in systems. Here is a list of s
 !(figs/SC.png)
 
 
-*RDMA-Redis: A RMDA equipped Redis.
+*RDMA-Redis: A RMDA equipped Redis system.
 
 
 * 
