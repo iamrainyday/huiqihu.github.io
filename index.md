@@ -51,7 +51,7 @@ The students are engaged in research/engineering in systems. Here is a list of s
 
 * Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks. 
 
-!(SC.png)
+![](SC.png)
 
 
 *RDMA-Redis: A RMDA equipped Redis system.
