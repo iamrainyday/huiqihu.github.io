@@ -54,17 +54,11 @@ The students are engaged in research/engineering in systems. Here is a list of s
 ![](SC.png)
 
 
-*RDMA-Redis: A RMDA equipped Redis system.
-
-
-* 
-
+* RDMA-Redis: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  RDMA-redis augment Redis with 
 
 
 * Cedar: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
-The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>
-
-The paper: 
+The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  The paper is avaiable at [Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage] (https://www.usenix.org/conference/atc18/presentation/zhu)
 
 
 #### Selected Publications
