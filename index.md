@@ -74,6 +74,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ####  Readings of Papers 
 
-See [Readings]() for a list. 
+See [Readings](huiqihu.github.io/readings/list.md) for a list. 
 
 
