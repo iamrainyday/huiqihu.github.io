@@ -54,7 +54,7 @@ The students are engaged in research/engineering in systems. Here is a list of s
 ![](SC.png)
 
 
-* RDMA-Redis: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  RDMA-redis augment Redis with 
+* RDMA-Redis: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  RDMA-redis augment Redis with RDMA. It also support multi-thread serving 
 
 
 * Cedar: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
