@@ -49,7 +49,7 @@ The students are engaged in research/engineering in systems. Here is a list of s
 
 #### Projects 
 
-* Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks. 
+* Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks.  The program  is currently in progress. The code is avaiable at : <https://github.com/dase314ecnu/RDMA-Unified-Shared-Memory>
 
 ![](SC.png)
 
