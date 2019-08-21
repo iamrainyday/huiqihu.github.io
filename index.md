@@ -9,6 +9,12 @@ Email: hqhu@dase.ecnu.edu.cn
 Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). Now I'm an assistant professor at School of Data Science and Engineering (**DASE**), East China Normal University (**ECNU**). My main research interests are database and distributed systems and algorithms.
 
 
+
+####  Blog & Readings of Papers 
+
+See [Readings](/readings/list.md) for a list. Welcome to discuss about database and distributed system with us.  
+
+
 #### Description of Lab Dase-314
 
 I run a small lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  query processing and optimization, transaction processing. In the lab, we prefer study open-sourced systems or open-sourced projects. 
@@ -82,9 +88,5 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 * _Query optimization_
 
-
-####  Blog & Readings of Papers 
-
-See [Readings](/readings/list.md) for a list. 
 
 
