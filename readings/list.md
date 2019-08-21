@@ -7,7 +7,7 @@
  
 
  
-近年来，数据库方面研究也有相近的研究。 典型的应用就是分布式KVS系统，将复制对象定义为item，缓存item以提高系统吞吐。如下面的两篇论问能看到体系结构一致性协议(e.g. MESI协议)的影子。
+近年来，数据库方面研究也有借鉴的研究。 典型的应用就是分布式KVS系统，将复制对象定义为item，缓存item以提高系统吞吐。如下面的两篇论问能看到体系结构一致性协议(e.g. MESI协议)的影子。
  
 * EuroSys-2018,  [Scale-Outcc NUMA: Exploiting Skew with Strongly Consistent Caching](http://homepages.inf.ed.ac.uk/s1372211/pub/eurosys18.pdf) 
 
