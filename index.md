@@ -66,21 +66,21 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 #### Selected Publications
 
-###### Database & Distributed Systems
+* _Database & Distributed Systems_
 
 Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, HaiNing Li, Huiqi Hu:
 **Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage**. USENIX Annual Technical Conference 2018: 795-807
 
 
-###### Storage
+* _Storage_
 
 
-###### Transaction processing
+* _Transaction processing_
 
 Tao Zhu, Donghui Wang, Huiqi Hu, Weining Qian, Xiaoling Wang, Aoying Zhou:
 **Interactive Transaction Processing for In-Memory Database System**. DASFAA (2) 2018: 228-246
 
-###### Query optimization
+* _Query optimization_
 
 
 ####  Blog & Readings of Papers 
