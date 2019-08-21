@@ -55,18 +55,18 @@ The students are engaged in research/engineering in systems. A list of students 
 
 #### Projects 
 
-* Shared-cache: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks.  The program  is currently in progress. The code is avaiable at : <https://github.com/dase314ecnu/RDMA-Unified-Shared-Memory>
+* **Shared-cache**: A high-performance distributed cache with RDMA and NVM. Shared-cache uses NVM and RDMA to provides a global cache layer between computation and storage. As RDMA for remote access is more efficient than local access on SSD, the key idea is to replace or assist local cache with the high-performance shared cache through network.  SC is a block-level cache, where data are organized as blocks.  The program  is currently in progress. The code is avaiable at : <https://github.com/dase314ecnu/RDMA-Unified-Shared-Memory>
 
 ![](SC.png)
 
 
-* RDMA-Redis: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  The existing implementation of Redis is built upon socket interface that remains heavy memory copy overhead within the kernel and considerable CPU overhead to maintain socket connections. RDMA-redis augment Redis with RDMA. We also enable Redis to handle multi-threaded execution and cope with concurrent conflicts.  Redis-RDMA achieves orders-of-magnitude better throughput - up to 2.78 million operations per second and ultra-low latency  down to 10 us per operator on a single machine.
+* **RDMA-Redis**: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  The existing implementation of Redis is built upon socket interface that remains heavy memory copy overhead within the kernel and considerable CPU overhead to maintain socket connections. RDMA-redis augment Redis with RDMA. We also enable Redis to handle multi-threaded execution and cope with concurrent conflicts.  Redis-RDMA achieves orders-of-magnitude better throughput - up to 2.78 million operations per second and ultra-low latency  down to 10 us per operator on a single machine.
 The code is available at <https://github.com/dase314ecnu/RDMA-Redis>. 
 
 ![](RMDA-redis.png)
 
 
-* Cedar: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
+* **Cedar**: a scalable RDBMS built on distributed LSM-structure. The system has many successfull application in industry companies. 
 The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  The paper is avaiable at [Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage](https://www.usenix.org/conference/atc18/presentation/zhu)
 
 
