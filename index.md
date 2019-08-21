@@ -66,10 +66,9 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 #### Selected Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-####  Readings of Papers 
+####  Blog & Readings of Papers 
 
 See [Readings](/readings/list.md) for a list. 
 
