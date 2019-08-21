@@ -74,6 +74,9 @@ READ和WRITE是单边操作，只需要本端明确信息的源和目的地址�
 ##### Infiniband VERBS AP如何实现WRITE/READ和SEND/RECEIVE
 Infiniband VERBS API中（<infiniband/verbs.h>）的有关WRITE/READ和SEND/RECEIVE涉及到的函数如下所示
 
+![image](069A64326B4A4093B4316920DDB3DDD1)
+
+
 把WR发送到QP的SQ中，根据send_wr中的opcode区分是SEND/WRITE/READ操作
 
 int ibv_post_send(struct ibv_qp *qp, struct ibv_send_wr *wr, struct ibv_send_wr **bad_wr);
