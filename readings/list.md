@@ -1,5 +1,8 @@
 ## Reading Lists
 
+### Primary reading in Dase314
+
+[roadmap](http://note.youdao.com/noteshare?id=8295f97258144fbedf30b55216369271&sub=WEB11c0885aac4a1eb71fbd5a83e14ff4a8)
 
 ### Distributed Shared Memory (DSM)
 
