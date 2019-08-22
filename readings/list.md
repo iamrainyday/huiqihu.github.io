@@ -39,6 +39,8 @@ Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 
 * 应用于数据库查询,
        * Exchange 算子, 
+       
+       * 扩大缓存, 
 
 
 ### Distributed Consensus (Raft & Paxos Varients)
