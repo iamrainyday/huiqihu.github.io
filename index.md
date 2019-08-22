@@ -78,37 +78,36 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 * _Storage_
 
-Tao Zhu, Huiqi Hu, Weining Qian, Huan Zhou, Aoying Zhou: **Fault-tolerant precise data access on distributed log-structured merge-tree**. FCS 2019
+	Tao Zhu, Huiqi Hu, Weining Qian, Huan Zhou, Aoying Zhou: **Fault-tolerant precise data access on distributed log-structured merge-tree**. FCS 2019
 
 
 * _Transaction processing_
 
-Huan Zhou, Jinwei Guo, Huiqi Hu, Weining Qian, Xuan Zhou, Aoying Zhou: **Guaranteeing Recoverability via Partially Constrained Transaction Logs**. CoRR abs/1901.06491 (2019)
+	Huan Zhou, Jinwei Guo, Huiqi Hu, Weining Qian, Xuan Zhou, Aoying Zhou: **Guaranteeing Recoverability via Partially Constrained Transaction Logs**. CoRR abs/1901.06491 (2019)
 
-Huiqi Hu, Xuan Zhou, Tao Zhu, Weining Qian, Aoying Zhou. In-memory transaction processing: efficiency and scalability considerations. KAIS, 2019. 
+	Huiqi Hu, Xuan Zhou, Tao Zhu, Weining Qian, Aoying Zhou. In-memory transaction processing: efficiency and scalability considerations. KAIS, 2019. 
 
-Tao Zhu, Donghui Wang, Huiqi Hu, Weining Qian, Xiaoling Wang, Aoying Zhou:
-**Interactive Transaction Processing for In-Memory Database System**. DASFAA 2018
+	Tao Zhu, Donghui Wang, Huiqi Hu, Weining Qian, Xiaoling Wang, Aoying Zhou: **Interactive Transaction Processing for In-Memory Database System**. DASFAA 2018
 
 * _Query optimization_
 
-Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou. **Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster**  TKDE 2019
+	Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou. **Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster**  TKDE 2019
 
-Xing Wei, Huiqi Hu, Weining Qian, Aoying Zhou. **Parallel strategy for multiple scan operations with data replication**. WWWJ 2018.
+	Xing Wei, Huiqi Hu, Weining Qian, Aoying Zhou. **Parallel strategy for multiple scan operations with data replication**. WWWJ 2018.
 
-Huichao Duan, Huiqi Hu, Weining Qian, Haixin Ma, Xiaoling Wang, Aoying Zhou: **Incremental Materialized View Maintenance on Distributed Log-Structured Merge-Tree**. DASFAA 2018
+	Huichao Duan, Huiqi Hu, Weining Qian, Haixin Ma, Xiaoling Wang, Aoying Zhou: **Incremental Materialized View Maintenance on Distributed Log-Structured Merge-Tree**. DASFAA 2018
 
 * _Spatial data management_
 
 	Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu:
 **Top-k Spatio-Textual Similarity Join**. TKDE 2016
 
-Huiqi Hu, Yudian Zheng, Zhifeng Bao, Guoliang Li, Jianhua Feng, Reynold Cheng:
+	Huiqi Hu, Yudian Zheng, Zhifeng Bao, Guoliang Li, Jianhua Feng, Reynold Cheng:
 **Crowdsourced POI labelling: Location-aware result inference and Task Assignment**. ICDE 2016.
 	
- Huiqi Hu, Guoliang Li, Zhifeng Bao, Yan Cui, Jianhua Feng:
+ 	Huiqi Hu, Guoliang Li, Zhifeng Bao, Yan Cui, Jianhua Feng:
  **Crowdsourcing-based real-time urban traffic speed estimation: From trends to speeds**. ICDE 2016
 
-Huiqi Hu, Yiqun Liu, Guoliang Li, Jianhua Feng, Kian-Lee Tan: **A location-aware publish/subscribe framework for parameterized spatio-textual subscriptions**. ICDE 2015
+	Huiqi Hu, Yiqun Liu, Guoliang Li, Jianhua Feng, Kian-Lee Tan: **A location-aware publish/subscribe framework for parameterized spatio-textual subscriptions**. ICDE 2015
 
 
