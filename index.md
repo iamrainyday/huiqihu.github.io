@@ -1,7 +1,6 @@
-## Homepage of  Huiqi Hu @ DASE-314
+##  Huiqi Hu @ DASE-314
 
-
-
+![](photo.png)
 
 #### Personal Information
 
