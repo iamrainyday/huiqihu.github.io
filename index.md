@@ -96,12 +96,13 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 * _Spatial data management_
 
-	Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu: **Top-k Spatio-Textual Similarity Join**. TKDE 2016
-
-	Huiqi Hu, Yudian Zheng, Zhifeng Bao, Guoliang Li, Jianhua Feng, Reynold Cheng:  **Crowdsourced POI labelling: Location-aware result inference and Task Assignment**. ICDE 2016.
-	
 	Huiqi Hu, Guoliang Li, Zhifeng Bao, Yan Cui, Jianhua Feng: **Crowdsourcing-based real-time urban traffic speed estimation: From trends to speeds**. ICDE 2016
 	
 	Huiqi Hu, Yiqun Liu, Guoliang Li, Jianhua Feng, Kian-Lee Tan: **location-aware publish/subscribe framework for parameterized spatio-textual subscriptions**. ICDE 2015
 
+	Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu: **Top-k Spatio-Textual Similarity Join**. TKDE 2016
+
+	Huiqi Hu, Yudian Zheng, Zhifeng Bao, Guoliang Li, Jianhua Feng, Reynold Cheng:  **Crowdsourced POI labelling: Location-aware result inference and Task Assignment**. ICDE 2016.
+	
+	
 
