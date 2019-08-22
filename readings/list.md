@@ -38,7 +38,8 @@ Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 * 基于RDMA的KVS系统， [a brief survey of RDMA based KVS](rdma_kvs.md)
 
 
-* 应用于数据库查询
+* 应用于数据库查询,
+       * Exchange 算子, 
 
 
 ### Distributed Consensus (Raft & Paxos Varients)
