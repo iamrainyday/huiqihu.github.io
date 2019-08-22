@@ -1,7 +1,5 @@
 ##  Huiqi Hu @ DASE-314
-
 ![](photo.png)
-
 #### Personal Information
 
 Office: Room 314, The Geographical Building, East China Normal University(ECNU), Shanghai, China
@@ -9,8 +7,6 @@ Office: Room 314, The Geographical Building, East China Normal University(ECNU),
 Email: hqhu@dase.ecnu.edu.cn
 
 Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd's degree at Tsinghua University supervised by Prof. Guoliang Li (<http://dbgroup.cs.tsinghua.edu.cn/ligl/>). Now I'm an assistant professor at School of Data Science and Engineering (**DASE**), East China Normal University (**ECNU**). My main research interests are database and distributed systems and algorithms.
-
-
 
 ####  Blog & Readings of Papers 
 
