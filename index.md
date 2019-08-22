@@ -82,7 +82,7 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 	Huan Zhou, Jinwei Guo, Huiqi Hu, Weining Qian, Xuan Zhou, Aoying Zhou: **Guaranteeing Recoverability via Partially Constrained Transaction Logs**. CoRR abs/1901.06491 (2019)
 
-	Huiqi Hu, Xuan Zhou, Tao Zhu, Weining Qian, Aoying Zhou. In-memory transaction processing: efficiency and scalability considerations. KAIS, 2019. 
+	Huiqi Hu, Xuan Zhou, Tao Zhu, Weining Qian, Aoying Zhou. **In-memory transaction processing: efficiency and scalability considerations**. KAIS, 2019. 
 
 	Tao Zhu, Donghui Wang, Huiqi Hu, Weining Qian, Xiaoling Wang, Aoying Zhou: **Interactive Transaction Processing for In-Memory Database System**. DASFAA 2018
 
