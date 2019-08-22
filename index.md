@@ -8,7 +8,7 @@
                 左侧
             </td>
             <td>
-               #### Personal Information
+**Personal Information**
 
 Office: Room 314, The Geographical Building, East China Normal University(ECNU), Shanghai, China
 
