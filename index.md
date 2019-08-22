@@ -90,7 +90,7 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
 
 	Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou. **Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster**.  TKDE 2019
 
-	Xing Wei, Huiqi Hu, Weining Qian, Aoying Zhou. **Parallel strategy for multiple scan operations with data replication**.  WWWJ 2018.
+	Xing Wei, Huiqi Hu, Chengcheng Huang, Weining Qian, Aoying Zhou. **Parallel strategy for multiple scan operations with data replication**.  WWWJ 2018.
 
 	Huichao Duan, Huiqi Hu, Weining Qian, Haixin Ma, Xiaoling Wang, Aoying Zhou: **Incremental Materialized View Maintenance on Distributed Log-Structured Merge-Tree**. DASFAA 2018
 
