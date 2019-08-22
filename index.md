@@ -75,11 +75,9 @@ The system is avaiable at <https://github.com/daseECNU/Cedar/commits/master>.  T
    Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, HaiNing Li, Huiqi Hu:
 **Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage**. ATC 2018
 
-
 * _Storage_
 
 	Tao Zhu, Huiqi Hu, Weining Qian, Huan Zhou, Aoying Zhou: **Fault-tolerant precise data access on distributed log-structured merge-tree**. FCS 2019
-
 
 * _Transaction processing_
 
