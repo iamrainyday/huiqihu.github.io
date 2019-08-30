@@ -50,10 +50,17 @@ Memory and RDMA](http://www.audentia-gestion.fr/MICROSOFT/p416-li.pdf)
 
 ### Distributed Consensus (Raft & Paxos Varients)
 
-* Basis 
+* 基本协议Raft， Multi-Paxos
+
+* E-Paxos (多写)
+
 
 
 ### Data Deduplicated System
+
+* 数据去重切分算法， [FastCDC: a Fast and Efficient Content-Defined
+Chunking Approach for Data Deduplication](https://www.usenix.org/system/files/conference/atc16/atc16-paper-xia.pdf)
+
 
 
 
