@@ -34,13 +34,18 @@ Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 
 * RDMA通讯方式简介，[a brief introduction of RMDA](rdma_introduction.md)
 
-* 基于RDMA的KVS系统， [a brief survey of RDMA based KVS](rdma_kvs.md)
+* 基于RDMA的KVS系统， [a brief survey of RDMA based KVS, surveyed by xuecheng qi](rdma_kvs.md)
 
 
-* 应用于数据库查询,
-       * Exchange 算子, 
+* 应用于数据库查询
+   
+  一篇简单的survey, [Designing Databases for Future High-Performance Networks](https://htor.inf.ethz.ch/publications/img/barthels-databases-for-hpc-networks.pdf)
+     
+  Exchange 算子, Shuffle 操作, [Design and Evaluation of an RDMA-aware Data
+Shuffling Operator for Parallel Database Systems](https://web.cse.ohio-state.edu/~blanas.2/files/eurosys2017_rdmashuffling.pdf)
        
-       * 扩大缓存, 
+  Remote Memory Cache, [Accelerating Relational Databases by Leveraging Remote
+Memory and RDMA](http://www.audentia-gestion.fr/MICROSOFT/p416-li.pdf)
 
 
 ### Distributed Consensus (Raft & Paxos Varients)
