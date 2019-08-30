@@ -58,7 +58,8 @@ The students are engaged in research/engineering in systems. A list of students 
 ![](SC.png)
 
 
-* **Distributed Shared Memory**:  A high-performance distributed memory system designed for data-intensive applications. The system is built over RDMA-networks, it supports  
+* **Distributed Shared Memory**:  A high-performance distributed memory system designed for data-intensive applications. The system is built over RDMA-networks, it supports remote paging, page caching and prefetching. Released consistency model is guaranteed by the system,  which provides its synchronization verbs to achieve strong consistency for app-level concurrent data access.
+S
 
 * **RDMA-Redis**: A RMDA equipped Redis system. The system is a forked branch of the Redis system, which is the most popular in-memory key-value stores enabling high-performance caching.  The existing implementation of Redis is built upon socket interface that remains heavy memory copy overhead within the kernel and considerable CPU overhead to maintain socket connections. RDMA-redis augment Redis with RDMA. Redis is capable of handling multi-threaded execution and coping with concurrent conflicts.  Redis-RDMA achieves orders-of-magnitude better throughput - up to 2.78 million operations per second and ultra-low latency  down to 10 us per operator on a single machine.  The code is available at <https://github.com/dase314ecnu/RDMA-Redis>. 
 
