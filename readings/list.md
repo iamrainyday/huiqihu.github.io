@@ -4,7 +4,7 @@
 
 [roadmap](http://note.youdao.com/noteshare?id=8295f97258144fbedf30b55216369271&sub=WEB11c0885aac4a1eb71fbd5a83e14ff4a8).
 
-### Distributed Consistency & Memory Consistency
+### 分布式与内存一致性  Distributed Consistency & Memory Consistency
 
 分布式一致性(distributed consistency)内存一致性(memory consistency) ，（暂时我认为两者比较接近）， 内存一致性在wiki上的定义 A memory consistency model is a set of rules that governs how memory systems will process memory operations (load / store) from multiple processors. 是用来规范内存操作的一系列规则，分布式一致性可认为同样是规范分布式读写操作的一系列规则。
 
@@ -29,8 +29,19 @@
 * VLDB-18, [Efficient Distributed Memory Management with RDMA and
 Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 
+### 分布式共识协议 Distributed Consensus (Raft & Paxos Varients)
 
-### RDMA Based System
+* 基本协议Raft， Multi-Paxos
+
+* E-Paxos (多写)
+
+
+### 并行内存计算 Parallel Memory Computing
+
+ * [RCU&RLU](https://blog.acolyer.org/2015/10/27/read-log-update-a-lightweight-synchronization-mechanism-for-concurrent-programming/)
+
+
+### RDMA系统 RDMA Based System
 
 * RDMA通讯方式简介，[a brief introduction of RMDA](rdma_introduction.md)
 
@@ -39,7 +50,7 @@ Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 
 * 应用于数据库查询
    
-  一篇简单的survey, [Designing Databases for Future High-Performance Networks](https://htor.inf.ethz.ch/publications/img/barthels-databases-for-hpc-networks.pdf)
+  一篇简单的survey,应用于查询优化 [Designing Databases for Future High-Performance Networks](https://htor.inf.ethz.ch/publications/img/barthels-databases-for-hpc-networks.pdf)
      
   Exchange 算子, Shuffle 操作, [Design and Evaluation of an RDMA-aware Data
 Shuffling Operator for Parallel Database Systems](https://web.cse.ohio-state.edu/~blanas.2/files/eurosys2017_rdmashuffling.pdf)
@@ -47,16 +58,15 @@ Shuffling Operator for Parallel Database Systems](https://web.cse.ohio-state.edu
   Remote Memory Cache, [Accelerating Relational Databases by Leveraging Remote
 Memory and RDMA](http://www.audentia-gestion.fr/MICROSOFT/p416-li.pdf)
 
+* 应用于并行计算
 
-### Distributed Consensus (Raft & Paxos Varients)
+ 分布式锁， [Distributed Lock Management with RDMA: Decentralization without Starvation ](https://www.mosharaf.com/wp-content/uploads/dslr-sigmod18.pdf)
 
-* 基本协议Raft， Multi-Paxos
-
-* E-Paxos (多写)
-
+### 存储系统
 
 
-### Data Deduplicated System
+
+### 数据去重系统 Data Deduplicated System
 
 * 数据去重切分算法， [FastCDC: a Fast and Efficient Content-Defined
 Chunking Approach for Data Deduplication](https://www.usenix.org/system/files/conference/atc16/atc16-paper-xia.pdf)
