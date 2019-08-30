@@ -38,6 +38,8 @@ Caching](http://www.vldb.org/pvldb/vol11/p1604-cai.pdf)
 
 ### 并行内存计算 Parallel Memory Computing
 
+ * 并发数据结构
+
  * [RCU&RLU](https://blog.acolyer.org/2015/10/27/read-log-update-a-lightweight-synchronization-mechanism-for-concurrent-programming/)
 
 
