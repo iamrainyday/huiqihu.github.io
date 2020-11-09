@@ -21,7 +21,7 @@ Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd
 ##### Readings for Students
 
 
-[Reading](https://github.com/dase314ecnu/huiqihu.github.io/readings/reading2020.pdf)
+[Reading](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/readings/reading2020.pdf)
 
 ####  Lab Dase-314
 
