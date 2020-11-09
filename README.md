@@ -18,10 +18,10 @@ Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd
 * Data structure and Algorithms
 
 
-##### Readings for Students
+###### Readings for Students
 
 
-[Reading](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/readings/reading2020.pdf)
+* [Reading](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/readings/reading2020.pdf)
 
 ####  Lab Dase-314
 
@@ -29,9 +29,9 @@ I run a small lab studying database and distributed systems. Our research area i
 
 Specifically, my recent interests include:
 
-*distributed storage system, LSM-tree structured storage system with new hardwares (RDMA and NVM)
+* distributed storage system, LSM-tree structured storage system with new hardwares (RDMA and NVM)
 
-*cloud-based database, multi-master and shared memory cache, distributed transaction over database replicas
+* cloud-based database, multi-master and shared memory buffer, distributed transaction over database replicas
 
 
 
