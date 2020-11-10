@@ -1,11 +1,11 @@
 
   By | Dase314-20200917 | 请勿分享 | Content
 ---|---|---|---
-数据库系统 | 存储| LSM-tree 存储| 我上课视频(不再讲了)， [LSM-tree存储优化](https://arxiv.org/abs/1812.07527)[==11月4日，朱明清,余阳==]
--- | --| 索引| [B+-tree技术](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf)[==12月30日, 黄晨晨==]]
--- | 查询| 数据库查询执行引擎| [火山模型,MPP](https://zhuanlan.zhihu.com/p/100949808 )[[==10月14日, 段慧超==]]  
--- | ==10月21日，李雪莲==|列存，向量执行|  [Apache Parquet](https://parquet.apache.org/),  [Apache Kudu](kudu.apache.org/kudu.pdf), [TIFlash列存](https://zhuanlan.zhihu.com/p/164490310)，  [SIMD向量化查询](http://www.cs.columbia.edu/~orestis/sigmod15.pdf)
--- |[==10月28日, 段慧超==]|NewSQL中数据库查询引擎| [Presto](https://prestosql.io/Presto_SQL_on_Everything.pdf), [Google F1](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf), [Snowflake](http://pages.cs.wisc.edu/~yxy/cs839-s20/papers/snowflake.pdf)
+数据库系统 | 存储| LSM-tree 存储| 我上课视频(不再讲了)， [LSM-tree存储优化](https://arxiv.org/abs/1812.07527)
+-- | --| 索引| [B+-tree技术](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf)
+-- | 查询| 数据库查询执行引擎| [火山模型,MPP](https://zhuanlan.zhihu.com/p/100949808 ) 
+-- | |列存，向量执行|  [Apache Parquet](https://parquet.apache.org/),  [Apache Kudu](kudu.apache.org/kudu.pdf), [TIFlash列存](https://zhuanlan.zhihu.com/p/164490310)，  [SIMD向量化查询](http://www.cs.columbia.edu/~orestis/sigmod15.pdf)
+-- ||NewSQL中数据库查询引擎| [Presto](https://prestosql.io/Presto_SQL_on_Everything.pdf), [Google F1](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf), [Snowflake](http://pages.cs.wisc.edu/~yxy/cs839-s20/papers/snowflake.pdf)
 -- | 事务| 并发控制[==11月11日，11月18日，孙佳丽==]| [2PL, OCC, Basic Timestamp Ordering](https://www.guru99.com/dbms-concurrency-control.html), [MVCC](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 -- | --| 日志[==11月25日，魏寒==]| 集中式日志(请看周欢博士论文第一二章)，[日志与缓冲区策略](http://www.cs.washington.edu/education/courses/cse544/11wi/papers/franklin97.pdf), [ARIES](https://dl.acm.org/doi/10.1145/128765.128770)
 --|分布式事务[==张轶楠，胡卉芪 2月3日==] |--|[2PC](https://documentation.progress.com/output/ua/OpenEdge_latest/index.html#page/dmadm/how-the-database-engine-implements-two-phase-com.html), [Pecolator](https://research.google/pubs/pub36726/), [Vector Timestamps](https://www.cs.princeton.edu/courses/archive/fall18/cos418/docs/L4-vc.pdf), [Spanner](https://research.google/pubs/pub39966/), [非数据库层面解决方法： 消息队列， TCC](https://medium.com/@Alibaba_Cloud/breaking-the-limits-of-relational-databases-an-analysis-of-cloud-native-database-middleware-2-d3e790de0673) , [Bailis的文章](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf)
