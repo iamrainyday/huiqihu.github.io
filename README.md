@@ -45,6 +45,33 @@ Specifically, my recent interests include:
 <img src="rdma-redis.jpg" width="30%" height="30%"></img>
 
 
+#### Projects
+
+
+
+
 #### Selected Publications
+
+Storage & System
+
+
+
+Transaction Processing+High Availabity 
+
+
+Query Optimization
+
+* Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou: [Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster](https://ieeexplore.ieee.org/document/8566007). IEEE Trans. Knowl. Data Eng. 32(3): 533-546 (2020)
+
+
+
+
+
+
+
+
+
+
+
 
 
