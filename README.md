@@ -51,7 +51,7 @@ Specifically, my recent interests include:
 
 * 基于NVM/DRAM/SSD混合存储的LSM-tree优化（与美团合作）
 
-* A shared data storage databse： [Cedar](https://github.com/daseECNU/Cedar)
+* A shared data storage database： [Cedar](https://github.com/daseECNU/Cedar)
 
 
 ### Selected Publications
@@ -60,7 +60,14 @@ Specifically, my recent interests include:
 
 * Xuecheng Qi, Huiqi Hu, Xing Wei, Chengcheng Huang, Xuan Zhou, Aoying Zhou: [High Performance Design for Redis with Fast Event-Driven RDMA RPCs](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_12). DASFAA (1) 2020: 195-210
 
-* 
+* Chenchen Huang, Huiqi Hu, Xuecheng Qi, Xuan Zhou, Aoying Zhou: [RS-store: A SkipList-Based Key-Value Store with Remote Direct Memory Access](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_22). DASFAA (1) 2020: 314-323
+
+* Rui Xu, Zihao Liu, Huiqi Hu, Weining Qian, Aoying Zhou: [An Efficient Secondary Index for Spatial Data Based on LevelDB](https://link.springer.com/chapter/10.1007%2F978-3-030-59419-0_50). DASFAA (3) 2020: 750-754
+
+
+* 	Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, HaiNing Li, Huiqi Hu: [Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage](https://www.usenix.org/conference/atc18/presentation/zhu). USENIX Annual Technical Conference 2018: 795-807
+
+
 
 
 
