@@ -45,7 +45,7 @@ Specifically, my recent interests include:
 <img src="rdma-redis.jpg" width="30%" height="30%"></img>
 
 
-### Selected Projects
+### Selected Cooperation Projects
 
 * 事务型数据库的NVM分布式缓存 (基于[OpenGauss](https://opengauss.org/en/), CCF-华为)
 
