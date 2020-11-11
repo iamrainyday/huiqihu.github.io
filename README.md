@@ -59,6 +59,11 @@ Specifically, my recent interests include:
 ###### Transaction Processing & High Availabity 
 
 
+* Zihao Zhang, Huiqi Hu, Yang Yu, Weining Qian, Ke Shu: [Dependency Preserved Raft for Transactions](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_14). DASFAA (1) 2020: 228-245
+
+
+
+
 ###### Query Optimization
 
 * Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou: [Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster](https://ieeexplore.ieee.org/document/8566007). IEEE Trans. Knowl. Data Eng. 32(3): 533-546 (2020)
