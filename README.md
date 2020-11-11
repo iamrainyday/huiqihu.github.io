@@ -37,10 +37,15 @@ Specifically, my recent interests include:
 
 
 
-### Blob  
+### Blob & Ideas
 
 
-[小链接](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+[==Welcome to discuss and cooperation ^_^==]
+
+[About Transaction & Distributed Consensus](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+
+
+About Storage System
 
 
 
