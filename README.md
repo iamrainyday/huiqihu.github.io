@@ -52,17 +52,24 @@ Specifically, my recent interests include:
 
 #### Selected Publications
 
-Storage & System
+###### Storage & System
 
 
 
-Transaction Processing+High Availabity 
+###### Transaction Processing & High Availabity 
 
 
-Query Optimization
+###### Query Optimization
 
 * Zhuhe Fang, Chuliang Weng, Li Wang, Huiqi Hu, Aoying Zhou: [Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster](https://ieeexplore.ieee.org/document/8566007). IEEE Trans. Knowl. Data Eng. 32(3): 533-546 (2020)
 
+* Xing Wei, Huiqi Hu, Xuan Zhou, Aoying Zhou: [A Chunk-Based Hash Table Caching Method for In-Memory Hash Joins](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_26). WISE (2) 2020: 376-389
+
+* Huichao Duan, Huiqi Hu, Xuan Zhou, Aoying Zhou: [A Slice-Based Method to Speed Up Join View Maintenance for Transactions](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_25). WISE (2) 2020: 359-375
+
+* Xing Wei, Huiqi Hu, Huichao Duan, Weining Qian, Aoying Zhou: [Parallel strategy for multiple scan operations with data replication](https://link.springer.com/article/10.1007/s11280-018-0625-7). World Wide Web 22(6): 2561-2587 (2019)
+
+  
 
 
 
