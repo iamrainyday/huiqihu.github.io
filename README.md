@@ -3,7 +3,7 @@
 ## 胡卉芪 huiqi hu
 
 
-####  Personal Information 
+###  Personal Information 
 
 
 Office: Room 314, The Geographical Building, East China Normal University(ECNU), Shanghai, China
@@ -25,7 +25,7 @@ Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd
 
 * [Reading](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/readings/reading2020.md)
 
-####  Lab Dase-314
+###  Lab Dase-314
 
 I run a small lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  transaction processing and distributed consensus. In the lab, we prefer study open-sourced systems or open-sourced projects. The students are engaged in research/engineering in systems.
 
@@ -37,7 +37,7 @@ Specifically, my recent interests include:
 
 
 
-#### Blob  
+### Blob  
 
 
 [小链接](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
@@ -45,14 +45,16 @@ Specifically, my recent interests include:
 <img src="rdma-redis.jpg" width="30%" height="30%"></img>
 
 
-#### Projects
+### Projects
 
 
 
 
-#### Selected Publications
+### Selected Publications
 
 ###### Storage & System
+
+
 
 
 
@@ -61,7 +63,11 @@ Specifically, my recent interests include:
 
 * Zihao Zhang, Huiqi Hu, Yang Yu, Weining Qian, Ke Shu: [Dependency Preserved Raft for Transactions](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_14). DASFAA (1) 2020: 228-245
 
+* Yanzhao Wang, Huiqi Hu, Weining Qian, Aoying Zhou: [Migratable Paxos - Low Latency and High Throughput Consensus Under Geographically Shifting Workloads](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_20). DASFAA (1) 2020: 296-304
 
+* Huiqi Hu, Xuan Zhou, Tao Zhu, Weining Qian, Aoying Zhou: [In-memory transaction processing: efficiency and scalability considerations](https://link.springer.com/article/10.1007%2Fs10115-019-01340-7). Knowl. Inf. Syst. 61(3): 1209-1240 (2019)
+
+* Tao Zhu, Donghui Wang, Huiqi Hu, Weining Qian, Xiaoling Wang, Aoying Zhou: [Interactive Transaction Processing for In-Memory Database System](https://link.springer.com/chapter/10.1007%2F978-3-319-91458-9_14). DASFAA (2) 2018: 228-246
 
 
 ###### Query Optimization
