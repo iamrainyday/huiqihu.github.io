@@ -40,7 +40,7 @@ Specifically, my recent interests include:
 ### Blob & Ideas
 
 
-Welcome  discussion and cooperation ^_^
+Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点）
 
 [About Transaction & Distributed Consensus](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
 
