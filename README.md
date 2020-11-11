@@ -40,12 +40,12 @@ Specifically, my recent interests include:
 ### Blob & Ideas
 
 
-[==Welcome to discuss and cooperation ^_^==]
+Welcome  discussion and cooperation ^_^
 
 [About Transaction & Distributed Consensus](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
 
 
-About Storage System
+[About Storage System]()
 
 
 
