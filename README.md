@@ -60,7 +60,7 @@ Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转
 
 ### Selected Publications
 
-
+[publications](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/publication.md)
   
 
 
