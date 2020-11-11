@@ -11,13 +11,13 @@
 #### [Paper Notes on E-Paxos]()
 
 
-#### [Something about Multi-paxos versus Raft]
+#### [Something about Multi-paxos versus Raft]()
 
 
-#### [Something about Cache Consistency]
+#### [Something about Cache Consistency]()
 
 
-#### [Something about multi-master and its RSM]
+#### [Something about multi-master and its RSM]()
 
 
 
