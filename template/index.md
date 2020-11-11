@@ -1,3 +1,28 @@
-# 目录
 
-#### [关于Peter Bailis的两篇论文 HAT & RAMP](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+
+不读水文
+
+#### [Paper Notes on Peter Bailis's Papers HAT & RAMP](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+
+
+#### [Paper Notes on Consensus on Transaction Commit]()
+
+
+#### [Paper Notes on E-Paxos]()
+
+
+#### [Something about Multi-paxos versus Raft]
+
+
+#### [Something about Cache Consistency]
+
+
+#### [Something about multi-master and its RSM]
+
+
+
+
+
+
+
+
