@@ -42,7 +42,7 @@ Specifically, my recent interests include:
 
 Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转载请注明）
 
-[About Transaction & Distributed Consensus](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+[About Transaction & Distributed Consensus](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/index.md)
 
 
 [About Storage System]()
