@@ -2,22 +2,22 @@
 
 不读水文, 谢谢
 
-#### [Paper Notes on Peter Bailis's Papers HAT & RAMP](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
+#### *[Paper Notes on Peter Bailis's Papers HAT & RAMP](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
 
 
-#### [Paper Notes on Consensus on Transaction Commit]()
+#### *[Paper Notes on Consensus on Transaction Commit]()
 
 
-#### [Paper Notes on E-Paxos]()
+#### *[Paper Notes on E-Paxos]()
 
 
-#### [Something about Multi-paxos versus Raft]()
+#### *[Something about Multi-paxos versus Raft]()
 
 
-#### [Something about Cache Consistency]()
+#### *[Something about Cache Consistency]()
 
 
-#### [Something about multi-master and its RSM]()
+#### *[Something about multi-master and its RSM]()
 
 
 
