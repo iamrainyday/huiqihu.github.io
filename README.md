@@ -45,14 +45,18 @@ Specifically, my recent interests include:
 <img src="rdma-redis.jpg" width="30%" height="30%"></img>
 
 
-### Projects
+### Selected Projects
 
-
+* 事务型数据库的NVM分布式缓存(CCF-华为数据库创新研究计划) 
 
 
 ### Selected Publications
 
 ###### Storage & System
+
+* Xuecheng Qi, Huiqi Hu, Xing Wei, Chengcheng Huang, Xuan Zhou, Aoying Zhou: [High Performance Design for Redis with Fast Event-Driven RDMA RPCs](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_12). DASFAA (1) 2020: 195-210
+
+* 
 
 
 
