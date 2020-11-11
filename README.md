@@ -47,7 +47,11 @@ Specifically, my recent interests include:
 
 ### Selected Projects
 
-* 事务型数据库的NVM分布式缓存(CCF-华为数据库创新研究计划) 
+* 事务型数据库的NVM分布式缓存 (基于[OpenGauss](https://opengauss.org/en/), CCF-华为)
+
+* 基于NVM/DRAM/SSD混合存储的LSM-tree优化（与美团合作）
+
+* A shared data storage databse： [Cedar](https://github.com/daseECNU/Cedar)
 
 
 ### Selected Publications
