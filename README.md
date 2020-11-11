@@ -37,7 +37,7 @@ Specifically, my recent interests include:
 
 
 
-### Blob & Ideas
+### Blog & Ideas
 
 
 Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转载请注明）
@@ -73,11 +73,7 @@ Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转
 
 
 
-
-
-
-
-###### Transaction Processing & High Availabity 
+###### Transaction Processing & Distributed Consensus
 
 
 * Zihao Zhang, Huiqi Hu, Yang Yu, Weining Qian, Ke Shu: [Dependency Preserved Raft for Transactions](https://link.springer.com/chapter/10.1007%2F978-3-030-59410-7_14). DASFAA (1) 2020: 228-245
