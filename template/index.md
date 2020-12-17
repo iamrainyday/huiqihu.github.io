@@ -5,6 +5,8 @@
 #### *[Paper Notes on Peter Bailis's Papers HAT & RAMP](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/1.md)
 
 
+#### *[Basic Paxos Revisit(一)](https://github.com/dase314ecnu/huiqihu.github.io/blob/master/template/Basic Paoxs Revisit（一）.pdf)
+
 #### *[Paper Notes on Consensus on Transaction Commit]()
 
 
