@@ -27,13 +27,19 @@ Short bio: I got my bachelor's degree at Xidian University and I recieved my Phd
 
 ###  Lab Dase-314
 
-I run a small lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  transaction processing and distributed consensus. In the lab, we prefer study open-sourced systems or open-sourced projects. The students are engaged in research/engineering in systems.
+I run a lab studying database and distributed systems. Our research area includes: storage, in-memory and parallel computing,  transaction processing and distributed consensus. In the lab, we prefer study open-sourced systems or open-sourced projects. The students are engaged in research/engineering in systems.
 
 Specifically, my recent interests include:
 
-* distributed storage system, LSM-tree structured storage system with new hardwares (RDMA and NVM)
+systems:
 
-* cloud-based database, multi-master and shared memory buffer, distributed transaction over database replicas
+* distributed storage system, storage system with new hardwares (RDMA and NVM)
+
+* cloud-based database, multi-master and shared memory database
+
+ theorm 
+ 
+ *distributed transaction +  distributed consensus protocals
 
 
 
